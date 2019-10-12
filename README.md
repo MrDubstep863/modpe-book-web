@@ -19,14 +19,14 @@ How does this site differ from the Android application?
 <p align="center">
 This site will continue to be kept in an open resource, or throw it on any web host?
 <br>
-<br>At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
+<br>
+<strong>At the moment: yes, there will be some time left in an open resource, but then, I will throw a web host on whatever web host, since Russian web hosts cost big money</strong>
+</p>
 
-  
-
->Will ModPE editor be available on this site?
-
->
-
+<p align="center">
+Will ModPE editor be available on this site?
+<br>
+<br>
 >-For a while it will not be available. Since I do not know JavaScript language, but I already have a sketch on how the editor may look. And also soon there will be some surprise for JavaScript users. Soon I need to do the BlockLauncher API, as an editor without an API is not an editor.
 
   
@@ -49,6 +49,6 @@ This site will continue to be kept in an open resource, or throw it on any web h
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NTQxMTI5LC02NzQxNDYzMjYsLTg3NT
-EyMTA1MV19
+eyJoaXN0b3J5IjpbMTY3ODEwNzU0NCwtNjc0MTQ2MzI2LC04Nz
+UxMjEwNTFdfQ==
 -->
