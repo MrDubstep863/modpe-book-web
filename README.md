@@ -45,12 +45,12 @@ Maybe not, since I will have to negotiate with the guys from the VK Group so tha
 Will the site be available in other languages of the world?
 <br>
 <br>
-It is possible, but at the moment only English and Russian are available, if you want to translate into your language, write to me by Mail:<mrdubstep863@mail.ru> or to my Discord: MrDubstep863#4027
+<strong>
+It is possible, but at the moment only English and Russian are available, if you want to translate into your language, write to me by Mail: mrdubstep863@mail.ru or to my Discord: MrDubstep863#4027</strong>
+</p>
 
-  
-
-Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
+<p align="">Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjYwOTE1OSwtNjc0MTQ2MzI2LC04Nz
+eyJoaXN0b3J5IjpbMjE0NTU4ODQ4OSwtNjc0MTQ2MzI2LC04Nz
 UxMjEwNTFdfQ==
 -->
