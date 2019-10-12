@@ -12,10 +12,10 @@
 ***
 
 > How does this site differ from the Android application?
->-The fact that it has open access to the lessons, if you do not have a phone under you or do not want to code on the phone :)
+The fact that it has open access to the lessons, if you do not have a phone under you or do not want to code on the phone :)
 
 >This site will continue to be kept in an open resource, or throw it on any web host?
->-At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
+>At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
 
   
 
@@ -45,5 +45,5 @@
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk1NDU5MDVdfQ==
+eyJoaXN0b3J5IjpbLTc3MTUxMDY1N119
 -->
