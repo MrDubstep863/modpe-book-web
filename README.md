@@ -1,5 +1,5 @@
 
-# ModPE Book | Web
+<h1 style="text-align: center;">ModPE Book | Web</h1>
 
   
 
@@ -45,5 +45,5 @@ The fact that it has open access to the lessons, if you do not have a phone unde
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTUxMDY1N119
+eyJoaXN0b3J5IjpbMzc2MzE5NTc0XX0=
 -->
