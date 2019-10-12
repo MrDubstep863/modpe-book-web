@@ -9,12 +9,17 @@ This repository for the group as know
 
 ***
 
-<p al>How does this site differ from the Android application?
-The fact that it has open access to the lessons, if you do not have a phone under you or do not want to code on the phone :)
+<p align="center">
+How does this site differ from the Android application?
+<br>
+<br>
+<strong>The fact that it has open access to the lessons, if you do not have a phone under you or do not want to code on the phone :)</strong>
 </p>
 
->This site will continue to be kept in an open resource, or throw it on any web host?
->At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
+<p align="center">
+This site will continue to be kept in an open resource, or throw it on any web host?
+<br>
+<br>At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
 
   
 
@@ -44,6 +49,6 @@ The fact that it has open access to the lessons, if you do not have a phone unde
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzI0OTE1NywtNjc0MTQ2MzI2LC04Nz
-UxMjEwNTFdfQ==
+eyJoaXN0b3J5IjpbNDA3NTQxMTI5LC02NzQxNDYzMjYsLTg3NT
+EyMTA1MV19
 -->
