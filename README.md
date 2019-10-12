@@ -32,24 +32,25 @@ Will ModPE editor be available on this site?
 	</strong>
 </p>
 
-<p align=>Will dump memory from BlockLauncher be available for the editor?
+<p align="center">
+Will dump memory from BlockLauncher be available for the editor?
+<br>
+<br>
+<strong>
+Maybe not, since I will have to negotiate with the guys from the VK Group so that they can get it, or wait until Zhuowei Zhang tries to finish the modding, or wait until Mojang does a full-fledged JavaScript scripting API.
+</strong>
+</p>
 
->
-
->-Maybe not, since I will have to negotiate with the guys from the VK Group so that they can get it, or wait until Zhuowei Zhang tries to finish the modding, or wait until Mojang does a full-fledged JavaScript scripting API.
-
-  
-
-> Will the site be available in other languages of the world?
-
->
-
->-It is possible, but at the moment only English and Russian are available, if you want to translate into your language, write to me by Mail:<mrdubstep863@mail.ru> or to my Discord: MrDubstep863#4027
+<p align="center">
+Will the site be available in other languages of the world?
+<br>
+<br>
+It is possible, but at the moment only English and Russian are available, if you want to translate into your language, write to me by Mail:<mrdubstep863@mail.ru> or to my Discord: MrDubstep863#4027
 
   
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NzI2MjksLTY3NDE0NjMyNiwtODc1MT
-IxMDUxXX0=
+eyJoaXN0b3J5IjpbLTg1NjYwOTE1OSwtNjc0MTQ2MzI2LC04Nz
+UxMjEwNTFdfQ==
 -->
