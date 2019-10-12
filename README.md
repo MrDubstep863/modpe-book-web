@@ -1,13 +1,9 @@
 
-<h1 style="text-align: center;">ModPE Book | Web</h1>
-
-  
+<h1 style="text-align: center">ModPE Book | Web</h1>
 
 ### This repository for the group as know [MCPE Top](https://vk.com/mcpe_top)
 
-  
-
-##### Web version of ModPE Book
+<h4> Web version of ModPE Book</h4>
 
 ***
 
@@ -45,5 +41,5 @@ The fact that it has open access to the lessons, if you do not have a phone unde
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MzE5NTc0XX0=
+eyJoaXN0b3J5IjpbMTMxMDQ3NjQyOV19
 -->
