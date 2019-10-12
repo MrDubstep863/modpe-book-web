@@ -25,13 +25,14 @@ This site will continue to be kept in an open resource, or throw it on any web h
 
 <p align="center">
 Will ModPE editor be available on this site?
-<br>
-<br>
->-For a while it will not be available. Since I do not know JavaScript language, but I already have a sketch on how the editor may look. And also soon there will be some surprise for JavaScript users. Soon I need to do the BlockLauncher API, as an editor without an API is not an editor.
+	<br>
+	<br>
+	<strong>
+		For a while it will not be available. Since I do not know JavaScript language, but I already have a sketch on how the editor may look. And also soon there will be some surprise for JavaScript users. Soon I need to do the BlockLauncher API, as an editor without an API is not an editor.
+	</strong>
+</p>
 
-  
-
-> Will dump memory from BlockLauncher be available for the editor?
+<p align=>Will dump memory from BlockLauncher be available for the editor?
 
 >
 
@@ -49,6 +50,6 @@ Will ModPE editor be available on this site?
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODEwNzU0NCwtNjc0MTQ2MzI2LC04Nz
-UxMjEwNTFdfQ==
+eyJoaXN0b3J5IjpbOTQ0NzI2MjksLTY3NDE0NjMyNiwtODc1MT
+IxMDUxXX0=
 -->
