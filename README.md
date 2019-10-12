@@ -4,13 +4,14 @@
 This repository for the group as know
 	<br>
 	<a href="https://vk.com/mcpe_top">MCPE Top</a>
-
+</p>
 <h4> Web version of ModPE Book</h4>
 
 ***
 
-> How does this site differ from the Android application?
+<p al>How does this site differ from the Android application?
 The fact that it has open access to the lessons, if you do not have a phone under you or do not want to code on the phone :)
+</p>
 
 >This site will continue to be kept in an open resource, or throw it on any web host?
 >At the moment: yes, there will be some time left in an open resource, but then I will throw a web host on whatever web host, since Russian web hosts cost big money
@@ -43,6 +44,6 @@ The fact that it has open access to the lessons, if you do not have a phone unde
 
 Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mjk3NjgxOCwtNjc0MTQ2MzI2LC04Nz
+eyJoaXN0b3J5IjpbLTIxNzI0OTE1NywtNjc0MTQ2MzI2LC04Nz
 UxMjEwNTFdfQ==
 -->
