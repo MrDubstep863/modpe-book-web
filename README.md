@@ -22,3 +22,6 @@ This repository for the group as know [MCPE Top](https://vk.com/mcpe_top)
 ###### Who knows, maybe Mojang will be ahead of Zhuowei Zhang, just by showing the JavaScript API for the Bedrock version?
 
 ┐(‘～`;)┌
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0OTg4NzIyNl19
+-->
